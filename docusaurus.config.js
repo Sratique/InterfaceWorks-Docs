@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            "https://github.com/Sratique/InterfaceWorks-RBX/tree/gh-pages",
+            "https://github.com/Sratique/InterfaceWorks-Docs/tree/main",
         },
         blog: false,
         theme: {
