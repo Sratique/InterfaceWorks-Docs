@@ -23,12 +23,13 @@ const config = {
   url: "https://sratique.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/InterfaceWorks-RBX/",
+  baseUrl: "/InterfaceWorks-Docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "sratique", // Usually your GitHub org/user name.
-  projectName: "InterfaceWorks-RBX", // Usually your repo name.
+  projectName: "InterfaceWorks-Docs", // Usually your repo name.
+  trailingSlash: true,
 
   onBrokenLinks: "throw",
 
