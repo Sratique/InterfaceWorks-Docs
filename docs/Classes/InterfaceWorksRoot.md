@@ -1,7 +1,7 @@
 This class is a Root for **all** ```InterfaceWorksBase``` objects.
 
 > Inherits from:
->- InterfaceWorksBase
+>- [InterfaceWorksBase](/docs/Classes/InterfaceWorksBase.md)
 
 ### API
 

@@ -50,8 +50,7 @@ const config = {
           sidebarPath: "./sidebars.js",
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/Sratique/InterfaceWorks-Docs/tree/main",
+          editUrl: "https://github.com/Sratique/InterfaceWorks-Docs/tree/main",
         },
         blog: false,
         theme: {
@@ -87,7 +86,7 @@ const config = {
           }, When there will be multiple versions just remember to add this*/
           {
             href: "https://github.com/sratique/InterfaceWorks-RBX",
-            label: "GitHub",
+            label: "GitHub - Library",
             position: "right",
           },
         ],
@@ -108,8 +107,8 @@ const config = {
             title: "More",
             items: [
               {
-                label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                label: "GitHub - Docs",
+                href: "https://github.com/sratique/InterfaceWorks-Docs",
               },
             ],
           },
