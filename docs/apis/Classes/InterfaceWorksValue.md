@@ -1,7 +1,7 @@
 This class is mainly responsible for firing Retracing events.
 
 > Inherits from:
->- [InterfaceWorksBase](/docs/Classes/InterfaceWorksBase.md)
+>- [InterfaceWorksBase](/docs/apis/Classes/InterfaceWorksBase.md)
 
 ## API
 

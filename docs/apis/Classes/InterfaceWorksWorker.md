@@ -1,11 +1,11 @@
 This class is a shortcut for cleaning up RBXScriptConnections.
 
 > Inherits from:
->- [InterfaceWorksBase](/docs/Classes/InterfaceWorksBase.md)
+>- [InterfaceWorksBase](/docs/apis/Classes/InterfaceWorksBase.md)
 
 ## API
 
-- `:Disconnect()` - Disconnects all connected RBXScriptConnections.
+- `:Disconnect() | :Destroy()` - Disconnects all connected RBXScriptConnections.
 
 ## Properties
 

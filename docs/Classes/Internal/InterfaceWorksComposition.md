@@ -1,1 +1,0 @@
-This is just a type-checking thing for easier development. It's the function you pass as the app when using `:Attach()`

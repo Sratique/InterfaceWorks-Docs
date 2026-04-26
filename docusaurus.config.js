@@ -79,7 +79,13 @@ const config = {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
-            label: "Get started",
+            label: "Tutorials",
+          },
+          {
+            type: "docSidebar",
+            sidebarId: "apisSidebar",
+            position: "left",
+            label: "Apis",
           },
           /*{
             type: "docsVersionDropdown",
