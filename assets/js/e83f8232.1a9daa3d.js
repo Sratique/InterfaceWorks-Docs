@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkinterface_works_docs=self.webpackChunkinterface_works_docs||[]).push([["563"],{5057(e,r,t){t.r(r),t.d(r,{default:()=>a});var s=t(4848),c=t(898),o=t(1085);function a(){let{siteConfig:e}=(0,c.A)();return(0,s.jsx)(o.A,{title:"Home",description:"Home for the InterfaceWorks luau library"})}}}]);

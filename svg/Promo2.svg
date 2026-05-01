@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 750 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,0.444444,0,0)">
+        <path d="M750,13.65L750,436.35C750,443.883 747.282,450 743.933,450L6.067,450C2.718,450 0,443.883 0,436.35L0,13.65C0,6.117 2.718,0 6.067,0L743.933,0C747.282,0 750,6.117 750,13.65Z" style="fill:rgb(29,25,27);"/>
+    </g>
+    <g transform="matrix(0.507963,0,0,0.507963,6.076275,3.510646)">
+        <text x="47px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">local</text>
+        <text x="202.632px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:white;">NewRoot</text>
+        <text x="495.34px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">=</text>
+        <text x="552.794px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:white;">InterfaceW<tspan x="873.921px 910.997px " y="123.754px 123.754px ">or</tspan>ks</text>
+        <text x="999.865px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">.</text>
+        <text x="1018.387px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(66,164,255);">CreateRoot</text>
+        <g transform="matrix(66.666667,0,0,66.666667,1403.705729,123.753906)">
+        </g>
+        <text x="1359.305px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">()</text>
+    </g>
+    <g transform="matrix(0.507963,0,0,0.507963,5.662894,88.291896)">
+        <text x="47px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:white;">NewRoot</text>
+        <text x="321.186px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">:</text>
+        <text x="339.708px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(66,164,255);">Attach</text>
+        <text x="528.706px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">(</text>
+        <text x="550.906px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(243,250,254);">AnimationPage</text>
+        <g transform="matrix(66.666667,0,0,66.666667,1025.255208,123.753906)">
+        </g>
+        <text x="1003.055px" y="123.754px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:66.667px;fill:rgb(229,64,155);">)</text>
+    </g>
+</svg>
