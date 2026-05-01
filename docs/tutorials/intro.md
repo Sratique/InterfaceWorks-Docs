@@ -10,6 +10,8 @@ InterfaceWorks is a **Roblox specific version** of React. It removes any confusi
 
 Get started by **downloading a InterfaceWorks binary** or **assemble InterfaceWorks Yourself**.
 
+InterfaceWorks is also available on [Wally](https://wally.run/package/sratique/interfaceworks).
+
 ### Requirements for assembling
 
 - [Rojo](https://rojo.space) version 7 or above:
