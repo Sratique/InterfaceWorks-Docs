@@ -40,8 +40,8 @@ export default function Home() {
             <p style={{ fontWeight: 'bold' }, { fontSize: 30 }}>Fast</p>
             <p>Create UI without the need to think about performance.</p>
             <br/>
-            <p>The test on the right creates 512 elements, applies properties and parents them to the player's UI(Initial composition), in just 14ms.</p>
-            <p>The same test but with 1024 elements takes 50ms.</p>
+            <p>The test on the right creates 2.5k elements, applies properties and parents them to the player's UI (Initial composition), in just 14ms.</p>
+            <p>The same test but with 5k+ elements takes 50ms.</p>
             <br/>
             <p>These times might vary depending on where it is being rendered. These results are from UI labs.</p>
           </div>
