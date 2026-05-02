@@ -41,10 +41,22 @@ function MyApp()
 	local WidthScale = InterfaceWorks.Value.New(0)
 	
 	return {InterfaceWorks.CreateElement("Frame",
-		{Size = UDim2.fromScale(0.5,0.5), AnchorPoint = Vector2.new(0.5,0.5), Position = UDim2.fromScale(WidthScale.Value,0.5)},
-		{},
 		{
-			InterfaceWorks.CreateElement("TextLabel", {Text = "Test Hello world!", Size = UDim2.fromScale(1,1), BackgroundTransparency = 1, TextColor3 = Color3.new(1,1,1)}),
+			Properties={
+				Size = UDim2.fromScale(0.5,0.5),
+				AnchorPoint = Vector2.new(0.5,0.5),
+				Position = UDim2.fromScale(WidthScale.Value,0.5)
+			}
+		},
+		{
+			InterfaceWorks.CreateElement("TextLabel", {
+				Properties = {
+					Text = "Test Hello world!",
+					Size = UDim2.fromScale(1,1),
+					BackgroundTransparency = 1,
+					TextColor3 = Color3.new(1,1,1)
+				}
+			}),
 		}
 		)
 	}

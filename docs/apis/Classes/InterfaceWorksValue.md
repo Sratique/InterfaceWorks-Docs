@@ -5,7 +5,7 @@ This class is mainly responsible for firing Retracing events.
 
 ## API
 
-- `:Set(Value: any)` - Sets the value as the first given argument.
+- `:Set(Value: any)` - Sets the value as the first given argument. **DEPRECATED**
 - `:Destroy()` - Destroys the value.
 
 ## Events
@@ -15,5 +15,4 @@ This class is mainly responsible for firing Retracing events.
 ## Properties
 
 - Value
-    - The actaul value.
-    - Read-only.
+    - Can be read and modified freely.

@@ -5,11 +5,9 @@ This class is a shortcut for cleaning up RBXScriptConnections.
 
 ## API
 
-- `:Disconnect() | :Destroy()` - Disconnects all connected RBXScriptConnections.
+- `:Disconnect() | :Destroy()` - Disconnects all connected cleanups.
 
 ## Properties
 
 - SelfProcesses
-    - The RBXScriptConnections attached to itself.
-- ChildProcesses
-    - The children `InterfaceWorksWorker`s.
+    - The cleanups attached to itself.
